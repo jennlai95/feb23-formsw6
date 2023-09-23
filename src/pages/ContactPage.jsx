@@ -1,4 +1,4 @@
-export default function AboutPage(props){
+export default function ContactPage(props){
 	return(
 		<div>
 			<h1>Contact</h1>
